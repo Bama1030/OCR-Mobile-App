@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:\\Users\\Bapi Mandal\\Downloads\\OCR-flutter-app-main",
+        "C:\\Users\\Bapi Mandal\\Downloads\\OCR-flutter-app-main\\OCR-flutter-app-main"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerPath": "gcc"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "OCR-flutter-app-main",
+      "cwd": "OCR-flutter-app-main",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "OCR-flutter-app-main (profile mode)",
+      "cwd": "OCR-flutter-app-main",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "OCR-flutter-app-main (release mode)",
+      "cwd": "OCR-flutter-app-main",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Bapi Mandal/Downloads/OCR-flutter-app-main/OCR-flutter-app-main",
+      "program": "c:/Users/Bapi Mandal/Downloads/OCR-flutter-app-main/OCR-flutter-app-main/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
